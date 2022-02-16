@@ -1,0 +1,32 @@
+{
+	"8622":{
+		"NAME":"ROOM1",
+		"MQTT":[{"TOPIC":"/arexx/room1","PAYLOAD":"{value}"}],
+		"CALIBRATION":{
+			"SCALE":0.98,
+			"OFFSET":-0.23
+		}
+	},
+	"9998":{
+		"NAME":"ROOM2",
+		"MQTT":[{"TOPIC":"/arexx/room2","PAYLOAD":"{value}"}],
+		"CALIBRATION":{
+			"OFFSET":-0.2
+		}
+	},
+	"11946":{
+		"NAME":"ROOM3",
+		"MQTT":[{"TOPIC":"/arexx/ROOM3","PAYLOAD":"{value}"}]
+	},
+	"16536":{
+		"NAME":"ROOM4",
+		"MQTT":[{"TOPIC":"/arexx/ROOM4","PAYLOAD":"{value}"}],
+		"CALIBRATION":{
+			"OFFSET":0.7
+		}
+	},
+	"16537":{
+		"NAME":"ROOM4_H",
+		"MQTT":[{"TOPIC":"/arexx/ROOM4H","PAYLOAD":"{value}"}]
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "LOGFILE": {
+        "FILENAME": "templogger.log",
+        "FILELOGLEVEL": 30,
+        "STREAMLOGLEVEL": 20
+    },
+    "MQTT": {
+        "CLIENT_NAME": "mqtt_templogger_client",
+        "BROKER_ADDRESS": "192.168.178.200",
+        "BROKER_PORT": 1883,
+        "KEEP_ALIVE": 60,
+        "QOS": 0,
+        "AUTHENTICATION": true,
+        "USERNAME": "templogger",
+        "PASSWORD": "passwort"
+    }
+}
